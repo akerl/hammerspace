@@ -3,6 +3,7 @@ Hammerspace
 
 Hash-like interface to persistent, concurrent, off-heap storage
 
+**Notice:** This is a forked release of hammerspace, which has been released to RubyGems as `hammerspace-fork`. It is [upstream hammerspace](https://github.com/airbnb/hammerspace) plus [my PR to correct the gnista dependency](https://github.com/airbnb/hammerspace/pull/8)
 
 ## What is Hammerspace?
 

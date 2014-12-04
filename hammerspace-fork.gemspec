@@ -4,12 +4,12 @@ $:.push File.expand_path("../lib", __FILE__)
 require 'hammerspace/version'
 
 Gem::Specification.new do |s|
-  s.name         = "hammerspace"
+  s.name         = "hammerspace-fork"
   s.version      = Hammerspace::VERSION
   s.platform     = Gem::Platform::RUBY
   s.authors      = ["Jon Tai", "Nelson Gauthier"]
   s.email        = ["jon.tai@airbnb.com", "nelson@airbnb.com"]
-  s.homepage     = "https://github.com/airbnb/hammerspace"
+  s.homepage     = "https://github.com/akerl/hammerspace"
   s.summary      = "Hash-like interface to persistent, concurrent, off-heap storage"
   s.description  = "A convenient place to store giant hammers"
 
