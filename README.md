@@ -1,3 +1,5 @@
+**Deprecation Notice**: Airbnb has merged a PR into upstream that updates the gnista dep, rendering this fork obsolete. I'd recommend using their official version again.
+
 Hammerspace
 ===========
 
